@@ -1,4 +1,4 @@
-- 👋 Hey, how's it going! I’m Shubham, a backend enthusiast who loves writing logics.
+- 👋 Hey, how's it going! I’m Shubham, a backend enthusiast who loves writing clean code.
 - 👀 I prioritize app performance(speed) and code scalability above everything else.
 - Check out some of my projects if you like and feel free to drop suggestions. I'm all ears!  
 
